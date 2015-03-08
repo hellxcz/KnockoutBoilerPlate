@@ -1,3 +1,4 @@
 /JsPlayground/bin
 /JsPlayground/obj
 /packages
+*.suo
