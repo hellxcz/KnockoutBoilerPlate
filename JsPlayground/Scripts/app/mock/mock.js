@@ -1,0 +1,15 @@
+﻿define('mock/mock',
+    [
+//    'mock/mock.generator',
+//    'mock/mock.dataservice.attendance',
+//    'mock/mock.dataservice.lookup',
+//    'mock/mock.dataservice.person',
+//    'mock/mock.dataservice.session'
+    ],
+    function (
+        //generator, attendance, lookup, person, session
+        ) {
+        return {
+            dataserviceInit: function() {}
+        };
+    });
